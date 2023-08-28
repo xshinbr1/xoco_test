@@ -4,7 +4,7 @@ test repo for git + github lesson
 
 ka: i have a comment
 
-## Purpose
+## Purpose: Practice making merge mistakes
 
 -   Create a remote repo on GitHub
 -   Practice git workflow
