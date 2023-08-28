@@ -2,6 +2,8 @@
 
 test repo for git + github lesson
 
+ka: i have a comment
+
 ## Purpose
 
 -   Create a remote repo on GitHub
